@@ -13,7 +13,7 @@ You've been hired to build an app for the local bowling alley. They want a page 
 
 But for now, they'll settle for just the basics.
 
-### Step 1:
+    ### Step 1:
 
 In `app.rb`, you'll want to create a controller action that responds to a GET request and loads `index.erb` in the browser.
 
